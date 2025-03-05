@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "express": "^4.21.2",
+    "youtube-dl-exec": "^3.0.16",
+    "ytdl-core": "^4.11.5"
+  }
+}
